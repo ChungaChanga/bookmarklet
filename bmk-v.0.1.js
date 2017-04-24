@@ -234,6 +234,10 @@ var view = (function() {
           '<select id="selectLang" class="form-control input-sm">'+
             '<option selected="" value="en-ru">Английский - Русский</option>'+
             '<option value="ru-en">Русский - Английский</option>'+
+            '<option value="be-ru">Белорусский - Русский</option>'+
+            '<option value="ru-be">Русский - Белорусский</option>'+
+            '<option value="uk-ru">Украинский - Русский </option>'+
+            '<option value="ru-uk">Русский - Украинский</option>'+
            ' <option value="ru-ru">Русский - Русский</option>'+
           '</select>'+
        ' </div>'+

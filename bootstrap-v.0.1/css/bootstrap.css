@@ -8222,7 +8222,7 @@
 	width: 500px;
 	box-sizing: border-box;
     /* overflow: auto;*/
-	border: 2px solid;
+	border: 1px solid #aaa;
 	position: fixed;
 	top: 0px;
 	right: 0px;
